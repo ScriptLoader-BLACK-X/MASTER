@@ -1,8 +1,3 @@
-
-
-
-
-
 --DOORS
 if game.PlaceId == 6839171747 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/DOORS-GAME", true))()
