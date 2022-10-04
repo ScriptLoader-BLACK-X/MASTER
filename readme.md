@@ -1,4 +1,4 @@
-## ````      GAMES      ````
+## ````GAMES````
 ``DOORS`` ``TAPPING SIMULATOR`` ``CLICKER PARTY SIMULATOR`` ``LONGEST ANSWER WINS``
 ## ``CREDITS``
 ``DEVELOPER :  G3FarEl3eeb & mohammadelmagico``
