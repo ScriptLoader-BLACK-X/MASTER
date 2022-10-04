@@ -28,4 +28,4 @@ else
         Duration = 10;
     })
     setclipboard("https://discord.gg/k9a4zym5uG")
-    loadstring(game:HttpGet(GameTable[game.PlaceId]))()
+    loadstring(game:HttpGet(Games[game.PlaceId]))()
