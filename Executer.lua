@@ -1,9 +1,3 @@
-
-
-
-
-
-
 local Games = {
     [6516141723] = "https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/DOORS",
     [6839171747] = "https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/DOORS",
@@ -11,10 +5,6 @@ local Games = {
     [9498006165] = "https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/TappingSimulator",
     [9992339729] = "https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/LongestAnswerWin",
 }
-
-
-
-
 if Games[game.PlaceId] == nil then
     CoreGui:SetCore("SendNotification", {
         Title = "Game not supported :(";
