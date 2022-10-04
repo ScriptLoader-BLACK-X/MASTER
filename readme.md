@@ -1,6 +1,6 @@
 ## ````GAMES````
 ``DOORS`` ``TAPPING SIMULATOR`` ``CLICKER PARTY SIMULATOR`` ``LONGEST ANSWER WINS``
-## ``BLACK-X-HUB``
+## ``BLACK-X-HUB V1.2``
 ```link
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/ScriptLoader-BLACK-X/MASTER/main/Executer.lua')))()
 ```
