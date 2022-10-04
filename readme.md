@@ -3,7 +3,7 @@
 ## ``CREDITS``
 ``DEVELOPER :  G3FarEl3eeb & mohammadelmagico``
 ## ``YOUTUBE``
-```url
+```link
 https://www.youtube.com/channel/UC6yDeF4mysspv2pVP_Ow6hg
 ```
 
