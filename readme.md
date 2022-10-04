@@ -2,7 +2,7 @@
 ``DOORS`` ``TAPPING SIMULATOR`` ``CLICKER PARTY SIMULATOR`` ``LONGEST ANSWER WINS``
 ## ``CREDITS``
 ``DEVELOPER :  G3FarEl3eeb & mohammadelmagico``
-## Creating a Window
+## ``YOUTUBE``
 ```lua
 local Window = OrionLib:MakeWindow({Name = "Title of the library", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
