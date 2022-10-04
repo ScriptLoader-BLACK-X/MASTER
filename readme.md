@@ -6,7 +6,8 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/ScriptLoader-BLACK-X
 ```
 ## ``CREDITS``
 ``DEVELOPER :  G3FarEl3eeb & mohammadelmagico``
-``G3FarEl3eeb YT Channel``
+
+````G3FarEl3eeb YT Channel````
 ```link
 https://www.youtube.com/channel/UC6yDeF4mysspv2pVP_Ow6hg
 ```
