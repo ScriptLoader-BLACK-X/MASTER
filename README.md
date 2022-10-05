@@ -6,7 +6,7 @@ description: SCRIPT HUB
 
 ## `GAMES`
 
-### `DOORS, TAPPING SIMUALTOR, CLICKERPARTYSIMULATOR, LONGEST ANSWER WIN` <a href="#games" id="games"></a>
+### `DOORS, TAPPING SIMUALTOR, CLICKER PARTY SIMULATOR, LONGEST ANSWER WIN` <a href="#games" id="games"></a>
 
 ## `BLACK-X-HUB V1.2`
 
