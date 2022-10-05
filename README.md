@@ -23,5 +23,5 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/ScriptLoader-BLACK-X
 {% embed url="https://github.com/ScriptLoader-BLACK-X" %}
 
 {% hint style="info" %}
-
+### BLACK-X-HUB CREDITS
 {% endhint %}
