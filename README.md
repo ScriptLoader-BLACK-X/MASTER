@@ -2,12 +2,12 @@
 description: SCRIPT HUB
 ---
 
-# BLACK-X-HUB
+# 🖤 BLACK-X-HUB
 
 ## `GAMES`
 
-{% tabs %}
-{% tab title="BLACK-X-HUB" %}
+### `DOORS, TAPPING SIMUALTOR, CLICKERPARTYSIMULATOR, LONGEST ANSWER WIN` <a href="#games" id="games"></a>
+
 ## `BLACK-X-HUB V1.2`
 
 {% code title="BLACK-X-HUB" overflow="wrap" lineNumbers="true" %}
@@ -22,10 +22,6 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/ScriptLoader-BLACK-X
 
 {% embed url="https://github.com/ScriptLoader-BLACK-X" %}
 
+{% hint style="info" %}
 
-{% endtab %}
-
-{% tab title="GAMES" %}
-
-{% endtab %}
-{% endtabs %}
+{% endhint %}
