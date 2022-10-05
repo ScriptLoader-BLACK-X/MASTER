@@ -14,9 +14,9 @@ local GameTable = {
 if GameTable[game.PlaceId] == nil then
     
     task.delay(2, function()
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/Robobo2022/script/main/Universal.lua"), true))()
     end)
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/BLACK-X-HUB-INTRO", true))()
     loadstring(game:HttpGet(GameTable[game.PlaceId]))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/DOSENT%20SUPPORTED%20GAME", true))()
 end
