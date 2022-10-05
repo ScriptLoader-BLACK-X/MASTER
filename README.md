@@ -6,7 +6,7 @@ description: SRCIPT HUB THE BEST
 
 ## `GAMES`
 
-`DOORS` `TAPPING SIMULATOR` `CLICKER PARTY SIMULATOR` `LONGEST ANSWER WINS`
+_<mark style="color:blue;">`DOORS TAPPING SIMULATOR CLICKER PARTY SIMULATOR LONGEST ANSWER WINS`</mark>_
 
 ## `BLACK-X-HUB V1.2`
 
@@ -20,7 +20,7 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/ScriptLoader-BLACK-X
 
 `G3FarEl3eeb YT Channel`
 
-{% code overflow="wrap" lineNumbers="true" %}
+{% code title="YT CHANNEL" overflow="wrap" lineNumbers="true" %}
 ```url
 https://www.youtube.com/channel/UC6yDeF4mysspv2pVP_Ow6hg
 ```
