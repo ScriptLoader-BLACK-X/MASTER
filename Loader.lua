@@ -1,5 +1,6 @@
 local GameTable = {
     [9992339729] = "https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/LongestAnswerWin",
+    [9992339729] = "https://raw.githubusercontent.com/ScriptLoader-BLACK-X/GAMES/main/Doors",
 }
 
 if GameTable[game.PlaceId] == nil then
