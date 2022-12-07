@@ -1,0 +1,8 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+OrionLib:MakeNotification({
+    Name = "BLACK-X-HUB",
+    Content = "THIS GAME DOSENT SUPPORTED IN BLACK-X-HUB.",
+    Image = "rbxassetid://7743869054"
+    Time = 4
+})
