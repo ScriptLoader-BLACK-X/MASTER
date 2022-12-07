@@ -11,5 +11,5 @@ OrionLib:MakeNotification({
     Content = "MY DISCORD COPY TO CLIPBOARD",
     Time = 2
 })
-setclipboard("https://discord.gg/A2Z7NkCeVH")
+setclipboard("https://discord.gg/BQwc68kGZ4")
 wait(1)
