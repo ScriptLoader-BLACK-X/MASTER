@@ -1,0 +1,15 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+OrionLib:MakeNotification({
+    Name = "BLACK-X-HUB",
+    Content = "BLACK-X-HUB IS LOADING PLEASE WAIT..",
+    Image = "rbxassetid://7743869054",
+    Time = 4
+})
+wait(3)
+OrionLib:MakeNotification({
+    Name = "BLACK-X-HUB",
+    Content = "MY DISCORD COPY TO CLIPBOARD",
+    Time = 2
+})
+setclipboard("https://discord.gg/A2Z7NkCeVH")
+wait(1)
